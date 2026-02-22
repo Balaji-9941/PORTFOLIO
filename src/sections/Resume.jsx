@@ -55,7 +55,7 @@ export default function Resume() {
 
   const handleDownload = () => {
     const link = document.createElement("a");
-    link.href = "./Balaji 503 Resume (2) (1).pdf";
+    link.href = "https://github.com/Balaji-9941/PORTFOLIO/blob/main/dist/Balaji%20503%20Resume%20(2)%20(1).pdf";
     link.download = "Balaji Resume.pdf";
     link.click();
   };
