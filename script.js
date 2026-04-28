@@ -392,5 +392,3 @@ document.addEventListener("DOMContentLoaded", function () {
   revealElements.forEach((el) => observer.observe(el));
 
  
-  );
-});
